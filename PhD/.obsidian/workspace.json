@@ -13,31 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Reading List/Preliminary reading list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Preliminary reading list"
             }
-          }
-        ]
-      },
-      {
-        "id": "87b94db8eccb7274",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "7b8f9657ce807b9b",
+            "id": "836b88091bbccce2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Meeting notes/02.10.2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02.10.2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 214.5
   },
   "right": {
     "id": "e1e1c830852e9d21",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Reading List/Preliminary reading list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Preliminary reading list"
             }
           },
           {
@@ -129,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Reading List/Preliminary reading list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Preliminary reading list"
             }
           },
           {
@@ -158,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Reading List/Preliminary reading list.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Preliminary reading list"
             }
           }
         ]
@@ -176,6 +175,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -184,8 +184,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "902dda4c0d0619e2",
+  "active": "836b88091bbccce2",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Tools/Tools.md",
+    "Diary/02.10.2025.md",
+    "Meeting notes/02.10.2025.md",
+    "Diary",
+    "Reading List/Preliminary reading list.md",
+    "Artist references/Artists.md",
+    "Proposal/Research proposal.pdf",
+    "Meeting notes",
+    "Tools",
+    "Welcome.md",
+    "create a link.md",
+    "Artist references",
+    "Reading List",
+    "Proposal"
   ]
 }
